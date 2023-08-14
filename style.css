@@ -1,0 +1,18 @@
+
+
+* {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.div-card {
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  border-radius: 10px;
+  font-family: 'Outfit', sans-serif;
+  max-width: 225px;
+  margin-right: ;
+}
+
+.qr-code {
+  border-radius: 5px;
+}
